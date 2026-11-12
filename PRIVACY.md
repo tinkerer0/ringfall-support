@@ -4,7 +4,7 @@
 
 ## 한국어
 
-운영자: tinkerer0. 문의: **memobuddy66@gmail.com**
+운영자: tinkerer0. 문의: **tinkerer0.dev@gmail.com**
 
 ### 앱이 처리하는 정보
 
@@ -20,7 +20,7 @@
 
 ## English
 
-Operator: tinkerer0. Contact: **memobuddy66@gmail.com**
+Operator: tinkerer0. Contact: **tinkerer0.dev@gmail.com**
 
 ### Data handled by the app
 

@@ -14,7 +14,7 @@ iOS 17 이상이 필요합니다. 인터넷 없이 동작합니다.
 
 ## 문의
 
-지원 이메일: **memobuddy66@gmail.com**
+지원 이메일: **tinkerer0.dev@gmail.com**
 
 문제가 생기면 기기 모델, iOS 버전, 앱 버전과 발생 상황을 적어 주세요. 비밀번호나 민감한 개인정보를 보내지 마세요.
 
@@ -32,6 +32,6 @@ Ringfall is an iPhone arcade game: walls close in from every side, and you send 
 
 Requires iOS 17 or later. Works offline.
 
-Support: **memobuddy66@gmail.com**. Include the device model, iOS and app version and a description of the issue. Do not send passwords or sensitive information.
+Support: **tinkerer0.dev@gmail.com**. Include the device model, iOS and app version and a description of the issue. Do not send passwords or sensitive information.
 
 [Privacy Policy](PRIVACY.md)
